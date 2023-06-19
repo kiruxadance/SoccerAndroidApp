@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "431297430563",
+    "project_id": "soccerapp-49e47",
+    "storage_bucket": "soccerapp-49e47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431297430563:android:3ff074199e9533fc541d96",
+        "android_client_info": {
+          "package_name": "ru.kiruxadance.core.utils"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431297430563-hhbtpkiv58b3og1tsocmscqmfu37n0hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.kiruxadance.core.utils",
+            "certificate_hash": "4320f8a387cf37dc668f14519a4d00957360e7b0"
+          }
+        },
+        {
+          "client_id": "431297430563-rptrirgpiuufll9f5nvr9igcmov5pqep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0sM-qlGVGWBz_14IWhXq6QPdJL3okMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431297430563-rptrirgpiuufll9f5nvr9igcmov5pqep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

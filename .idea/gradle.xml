@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/core/common" />
+            <option value="$PROJECT_DIR$/core/database" />
+            <option value="$PROJECT_DIR$/core/feature_api" />
+            <option value="$PROJECT_DIR$/core/network" />
+            <option value="$PROJECT_DIR$/core/utils" />
+            <option value="$PROJECT_DIR$/feature_event_details" />
+            <option value="$PROJECT_DIR$/feature_event_details/data" />
+            <option value="$PROJECT_DIR$/feature_event_details/domain" />
+            <option value="$PROJECT_DIR$/feature_event_details/presentation" />
+            <option value="$PROJECT_DIR$/feature_event_list" />
+            <option value="$PROJECT_DIR$/feature_event_list/data" />
+            <option value="$PROJECT_DIR$/feature_event_list/domain" />
+            <option value="$PROJECT_DIR$/feature_event_list/presentation" />
+            <option value="$PROJECT_DIR$/feature_splash" />
+            <option value="$PROJECT_DIR$/feature_splash/data" />
+            <option value="$PROJECT_DIR$/feature_splash/domain" />
+            <option value="$PROJECT_DIR$/feature_splash/presentation" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
